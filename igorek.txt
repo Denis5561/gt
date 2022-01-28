@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Terminator-111
-=======
-Terminator-333
->>>>>>> parent of 9bc6e9f (Revert "Terminator-333")
